@@ -55,7 +55,7 @@ $ newsroom --help
 ### Make the change
 
 - Modify the source code in `src` folder.
-- Run `npm run lint` from the project root. Make sure it pass the check.
+- Run `npm run lint` from the project root. Make sure it pass the check. May need to install node modules, `npm install` in project root.
 
 ### Push it
 
